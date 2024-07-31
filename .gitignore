@@ -5,16 +5,9 @@ __pycache__/
 *.pyd
 
 # Distribution / packaging
-.Python
 build/
-develop-eggs/
 dist/
-downloads/
-eggs/
-egg-info/
-.installed.cfg
 *.egg-info/
-*.egg
 
 # Virtual environment
 venv/
@@ -30,3 +23,6 @@ env/
 
 # VS Code
 .vscode/
+
+# .pypirc file for PyPI credentials
+.pypirc

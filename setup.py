@@ -8,7 +8,7 @@ setup(
     description='A Python package to manage API rate limits by automatically queuing and pacing API requests.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/apirl',
+    url='https://github.com/mixter3011/aprl.git',
     packages=find_packages(),
     install_requires=[
         'certifi',
